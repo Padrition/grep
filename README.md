@@ -17,7 +17,7 @@ cd grep
 Put a file you want to search in in the root directory(or use poem.txt)
 
 And run
-```bash
+```
 cargo run [string you want to find in the file] [filename .txt]
 ```
 to run case sensetive search.
